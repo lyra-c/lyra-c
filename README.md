@@ -8,7 +8,7 @@ Here's my current web Portfolio (made with RoR): https://portfolio-rails-2.onren
 I’m looking to collaborate on everything that fits my current capacities, and beyond ☺
 
 I don't have "real" experience (only coding for a bootcamp), but you can take a look to the pages in my repositories to make an idea about what i've learned. I can learn everything is there to learn, so I adapt myself to any job needed.
-You can contact me via email: jorge_liram@gmail.com
+You can contact me via email: jorge.liram9@gmail.com
 
 <!---
 Lyrachan/Lyrachan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
