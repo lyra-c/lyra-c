@@ -1,6 +1,9 @@
-👋 Hi, I’m Jorge Lira, from Santiago, Chile. (You can call me Lyra if you wish)
+👋 Hi, I’m Jorge Lira, from Santiago, Chile. (You can call me Lyra if you wish).
+
 I’m interested in learning everything that can be used to solve tasks and problems. ✨
 I'm a nurse (RN), and also a developer in development (pun intended) ☝🤓
+
+I'm a web developer. Right i'm taking a Data Analysis course at Google
 
 Technologies:
 - Ruby on Rails
