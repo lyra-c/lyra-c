@@ -3,7 +3,7 @@
 I’m interested in learning everything that can be used to solve tasks and problems. ✨
 I'm a nurse (RN), and also a developer in development (pun intended) ☝🤓
 
-I'm a web developer. Right i'm taking a Data Analysis course at Google
+I'm a web developer. Right now i'm taking a Data Analysis course at Google
 
 Technologies:
 - Ruby on Rails
