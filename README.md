@@ -21,7 +21,7 @@ Here's my current web Portfolio (made with RoR): https://portfolio-rails-2.onren
 
 I’m looking to collaborate on everything that fits my current capacities, and beyond :D
 
-I don't have "real" experience (only coding for a bootcamp), but you can take a look to the pages in my repositories to make an idea about what i've learned. I can learn everything is there to learn, so I adapt myself to any job needed.
+Lately I've been working as a freelance maintenance developer for some websites. Also, you can take a look to the pages in my repositories to make an idea about what i've learned during my first bootcamp. I can learn everything is there to learn, so I adapt myself to any job needed.
 You can contact me via email: jorge.liram9@gmail.com
 
 <!---
