@@ -17,6 +17,8 @@ Technologies:
 Currently learning:
 - Javascript Full-Stack
 - React
+- C
+- Java
 
 
 Here's my current web Portfolio (made with RoR): https://portfolio-rails-2.onrender.com/
