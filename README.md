@@ -3,7 +3,7 @@
 I’m interested in learning everything that can be used to solve tasks and problems. ✨
 I'm a nurse (RN), and also a developer in development (pun intended) ☝🤓
 
-I'm a web developer and Data Analyst. I'm constantly learning new technologies to solve problems.
+I'm a Web Developer and Data Analyst. I'm constantly learning new technologies to solve problems.
 
 Technologies:
 - Ruby on Rails
@@ -20,6 +20,12 @@ Currently learning:
 - C
 - Java
 
+Some hobbies:
+- Playing violin and guitar 🎶
+- Aikido 🥋
+- Coding 💻
+- Reading 📚
+- Exercising 🏃‍♂️
 
 Here's my current web Portfolio (made with RoR): https://portfolio-rails-2.onrender.com/
 
