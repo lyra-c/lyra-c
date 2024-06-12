@@ -13,12 +13,12 @@ Technologies:
 - Javascript
 - JQuery
 - R for Data Analysis and Data Visualization
+- C
 
 Currently learning:
 - Javascript Full-Stack
 - React
-- C
-- Java
+- Java/Spring
 
 Some hobbies:
 - Playing violin and guitar 🎶
