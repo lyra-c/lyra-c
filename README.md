@@ -10,11 +10,14 @@ Technologies:
 - Ruby on Rails (love how fast it is)
 - HTML, CSS, JS, and so on..
 - R for Data Analysis and Data Visualization
-- Java/Spring
-- 
+- Java/Spring (strong typing for the win!)
+
 Currently learning:
+- Spring Boot
+
+Wish to learn:
 - Javascript Full-Stack
-- React
+- React/React Native
 
 
 Some hobbies:
