@@ -6,21 +6,21 @@ I'm a former web developer, and I'm also a nurse (RN), so I have a depth experie
 
 I'm a Web Developer and Data Analyst. I'm constantly learning new technologies to solve problems or creating interesting stuff.
 
-Technologies:
-- Ruby on Rails (love how fast it is)
-- HTML, CSS, JS, and so on..
-- R for Data Analysis and Data Visualization
-- Java/Spring (strong typing for the win!)
+## Technologies 💻:
+- 🔻 Ruby on Rails (love how fast it is)
+- 🔰 HTML, CSS, JS, and so on..
+- 📈 R for Data Analysis and Data Visualization
+- 🍃 Java/Spring (strong typing for the win!)
 
-Currently learning:
+## Currently learning 📚:
 - Spring Boot
+- React/React Native
 
 Wish to learn:
 - Javascript Full-Stack
-- React/React Native
 
 
-Some hobbies:
+## Some hobbies 🌺:
 - Playing violin and guitar 🎶
 - Aikido 🥋
 - Coding 💻  ... also learning complex maths (ie: Calculus), it unlocks your brain 🤯
