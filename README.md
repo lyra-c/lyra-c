@@ -30,7 +30,7 @@ Wish to learn:
 
 - and of course I love videogames 😎, here's what I've played during all my life: https://docs.google.com/spreadsheets/d/1VawjDan0tUKVKCTW6AdDB-g3vTMiiGETtHkg4y148Lk/edit?usp=sharing
 
-Here's my current web Portfolio (made with RoR): https://portfolio-rails-2.onrender.com/  (Sheesh, I have to make a brand and updated new one. Stay tuned to see the future changes ;D)
+Here's my current web Portfolio: [https://lyra-c.github.io/digital-web-portfolio/](https://lyra-c.github.io/digital-web-portfolio/)
 
 I’m looking to collaborate on everything that fits my current capacities, and beyond :D  (everything has gone excellent in my way through IT Industry, I love it)
 
