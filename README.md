@@ -34,7 +34,7 @@ Here's my current web Portfolio: [https://lyra-c.github.io/digital-web-portfolio
 
 I’m looking to collaborate on everything that fits my current capacities, and beyond :D  (everything has gone excellent in my way through IT Industry, I love it)
 
-Lately I've been working as a freelance maintenance developer for some websites. Also, you can take a look to the pages in my repositories to make an idea about what i've learned during my first bootcamp. I can learn everything is there to learn, so I adapt myself to any job needed.
+Lately I've been working as a freelance maintenance developer for some websites. Also, you can take a look to the pages in my repositories to make an idea about what i've learned through time. I can learn everything is there to learn, so I adapt myself to any job needed.
 You can contact me via email: jorge.liram9@gmail.com, or linkedin: https://www.linkedin.com/in/jorge-lira-montalba-b57a18234/
 
 <!---
